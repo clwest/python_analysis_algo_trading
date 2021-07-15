@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "savenv/bin/python",
+    "jupyter.jupyterServerType": "local"
+}
